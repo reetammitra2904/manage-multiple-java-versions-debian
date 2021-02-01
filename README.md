@@ -8,7 +8,7 @@ This script is for managing multiple JDK versions in a Debian system. It downloa
   1. Clone the git repository to your local workspace. 
   2. Open the terminal and move to the repository in your local workspace.
   3. Open the file *multiple-java-versions.sh*.
-  4. Set the value of *JAVA_DOWNLOAD_URL* to a URL that will download the *tar.gz* file of your JDK.
+  4. Set the value of *JAVA_DOWNLOAD_URL* to a URL that will download the *tar.gz* file of your JDK. The URLs for Open JDK 8, 11 and 17 is available at the top of the script for reference.
   5. Set the version of the JDK that you are downloading in *JAVA_VERSION*.
   6. Save and close the file.
   7. Run the script by entering the command *sudo ./manage-java-version.sh*. The script will download the JDK and set up the symlinks.
