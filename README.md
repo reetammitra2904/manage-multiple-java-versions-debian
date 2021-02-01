@@ -17,3 +17,5 @@ This script is for managing multiple JDK versions in a Debian system. It downloa
   
 ## How to switch between JDK versions
   Run the command *sudo update-alternatives --config java*. This will display the list of JDK versions available in your system. Choose the one you want and hit ENTER. Run *java -version* to make sure that the correct JDK has been selected.
+  
+## Reference - https://dev.to/thegroo/install-and-manage-multiple-java-versions-on-linux-using-alternatives-5e93
