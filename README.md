@@ -12,7 +12,7 @@ This script is for managing multiple JDK versions in a Debian system. It downloa
   5. Set the version of the JDK that you are downloading in *JAVA_VERSION*.
   6. Save and close the file.
   7. Run the script by entering the command *sudo ./manage-java-version.sh*. The script will download the JDK and set up the symlinks.
-  8. At the end of the script it will display the list of JDK available in your system. You can choose to select the newly downloaded JDK or remain with the    existing one by pressing ENTER.
+  8. At the end of the script it will display the list of JDK versions available in your system. You can choose to select the newly downloaded JDK or remain with the    existing one by pressing ENTER.
   9. The script will remove the downloaded JDK and you are good to go.
   
 ## How to switch between JDK versions
