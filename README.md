@@ -1,5 +1,5 @@
 # manage-multiple-java-versions-debian
-Downloading and managing multiplle versions of JDK in Linux (Debian).
+Downloading and managing multiple versions of JDK in Linux (Debian).
 
 This script is for managing multiple JDK versions in a Debian system. It downloads the JDK and sets up the symlinks so that switching between JDK versions is just a command away.
 
